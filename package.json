@@ -7,10 +7,16 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.16.0"
+    "express": "*",
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "debug": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "pug": "*"
   },
   "engines": {
-    "node": "8.11.2"
+    "node": "^8.11.2"
   },
   "repository": {
     "type": "git",
