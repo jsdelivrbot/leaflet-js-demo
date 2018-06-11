@@ -65,8 +65,8 @@ app.get('/map', function(req,res) {
     Json.find({},{}, function(err,docs){
         res.render('map', {
             "jmap" : docs,
-            lat : 45.5017,
-            lng : - 73.5673
+            lat : 45.501552,
+            lng : - 73.593094
         });
     });
 });
