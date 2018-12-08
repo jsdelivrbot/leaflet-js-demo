@@ -2,6 +2,6 @@
   "name": "Leaflet.js Demo",
   "description": "A Node.js app using Express 4 demonstrating Leaflet.js",
   "repository": "https://github.com/mappingmtl/leaflet-js-demo",
-  "logo": "https://rawgit.com/heroku/node-js-sample/master/public/node.svg",
+  "logo": "https://cdn.jsdelivr.net/gh/heroku/node-js-sample/public/node.svg",
   "keywords": ["node", "express", "static"]
 }
